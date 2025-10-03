@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# Homework 1
 An assignment project to practice gitHub and markdown
 
 ## Installation
