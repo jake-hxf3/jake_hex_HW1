@@ -20,7 +20,7 @@ Edit the html/css/js/md files with any code editor (even **Notepad**, but **VSCo
 2. Added html, css, and other files needed for git
 3. Harsh & Dhairya joined in and created their main branches
 4. Each of us updated the readme file, each in their own branch
-5. Merged branches to the main with pull requests
+5. We merged branches to the main with pull requests
 
 ## Credits
 Jake (aka Le Minh Tri), Harsh Vasita & Dhairya Raval
