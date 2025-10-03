@@ -21,7 +21,7 @@ Edit the html/css/js/md files with any code editor (even **Notepad**, but **VSCo
 5. Merged branches to the main with pull requests
 
 ## Credits
-Jake (aka Le Minh Tri), Harsh & Dhairya
+Jake (aka Le Minh Tri), Harsh Vasita & Dhairya Raval
 
 ## License
 MIT License. See file included.
@@ -30,7 +30,7 @@ MIT License. See file included.
 ## The JHD Team
 Our team has 5 characters despite being with only 3 real members. Ain't that mind blowing?
 
-### Jake RG
+### Jake R.G.
 ![Jake's Image](https://github.com/jake-hxf3/jake_hex_HW1/blob/dev.jake.aboutme/images/jake.jpg?raw=true)
 
 Hi there, ahoy, and what's up? This is Jake.
