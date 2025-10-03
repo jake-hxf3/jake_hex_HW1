@@ -31,7 +31,7 @@ MIT License. See file included.
 Our team has 5 characters despite being with only 3 real members. Ain't that mind blowing?
 
 ### Jake RG
-![Jake's Image]()
+![Jake's Image](https://github.com/jake-hxf3/jake_hex_HW1/blob/dev.jake.aboutme/images/jake.jpg?raw=true)
 Hi there, ahoy, and what's up? This is Jake.
 Facts about me:
 - I live in: London, Ontario (though I like Vancouver more)
