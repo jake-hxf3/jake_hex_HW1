@@ -1,7 +1,5 @@
-
-This is a group assignment used to practice.
 # Homework 1
-An assignment project to practice *gitHub* and markdown
+An assignment group project to practice *gitHub* and markdown
 
 ## Installation
 Download this repo and extract
